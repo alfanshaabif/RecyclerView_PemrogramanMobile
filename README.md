@@ -1,6 +1,6 @@
 # RecyclerView
 ## Mata Kuliah Pemrograman Mobile
-### Praaktikum Pertemuan ke-14
+### Praktikum Pertemuan ke-14
 
 
 ```
