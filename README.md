@@ -1,8 +1,6 @@
-![11](https://user-images.githubusercontent.com/56286071/176993236-cb5b106e-5e2a-453f-a4bb-39d3ca9d2c49.jpeg)
-![11](https://user-images.githubusercontent.com/56286071/176993239-fc4c38af-8f6c-465a-9396-e4eb2c121525.jpeg)
 # RecyclerView
 ## Mata Kuliah Pemrograman Mobile
-### Praktikum Pertemuan ke-14
+### Praktikum Pertemuan ke-14 dan 15
 
 
 ```
